@@ -7,4 +7,4 @@ Matplotlib– It has a wide range of features for creating high-quality plots, c
 
 Pandas–     The library simplifies the loading of data frames into 2D arrays and provides functions for performing multiple analysis tasks in a single operation.
 
-Seaborn–    It offers a high-level interface for creating visually appealing and informative statistical graphics
+Seaborn–    It offers a high-level interface for creating visually appealing and informative statistical graphics.
